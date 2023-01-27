@@ -25,7 +25,7 @@ class _MyAppState extends State<_MyApp> {
       home: Scaffold(
         backgroundColor: Colors.black,
         appBar: AppBar(
-          title: const Center(child: Text('Dicee Game',
+          title: const Center(child: Text('Black & White Dicee Game',
             style: TextStyle(
               fontWeight: FontWeight.bold,
               color: Colors.black,
